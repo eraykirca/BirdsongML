@@ -1,9 +1,7 @@
 # BirdsongML
 An ML model designed to analyze repeating motifs in bird singing.
 
-https://github.com/user-attachments/assets/a698b970-dd8b-450f-9086-2c859dd24c40
+![turdus merula](https://github.com/user-attachments/assets/5bae27ea-b341-418a-806f-2b250f7f08ca)
+![parus major](https://github.com/user-attachments/assets/918ee650-0447-406f-9e3d-1305ef9f5e65)
 
-https://github.com/user-attachments/assets/a978a260-8494-4df2-bf18-543cc0360ecf
-
-https://github.com/user-attachments/assets/6c73636b-aace-47ea-94eb-0f984c30297f
 
