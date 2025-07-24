@@ -80,7 +80,7 @@ label_y = top_feature(pca.components_[1], selected_names)
 label_z = top_feature(pca.components_[2], selected_names)
 
 # Silhouette analysis (k from 3 to 12)
-ks, sil_scores = range(3,15), []
+ks, sil_scores = range(3,13), []
 for k in ks:
     km  = KMeans(n_clusters=k, random_state=42).fit(X_sel)
     sil = silhouette_score(X_sel, km.labels_)
